@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 30/01/2014 19:54:31.
+     1>Proyecto "C:\Users\Daniel\Documents\Visual Studio 2010\Projects\ProyectoOpenCL\ProyectoOpenCL\ProyectoOpenCL.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "x64\Debug\ProyectoOpenCL.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+         ProyectoOpenCL.vcxproj -> C:\Users\Daniel\Documents\Visual Studio 2010\Projects\ProyectoOpenCL\x64\Debug\ProyectoOpenCL.exe
+       Manifest:
+         Todas las salidas están actualizadas.
+       FinalizeBuildStatus:
+         Se eliminará el archivo "x64\Debug\ProyectoOpenCL.unsuccessfulbuild".
+         Aplicando tarea Touch a "x64\Debug\ProyectoOpenCL.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Daniel\Documents\Visual Studio 2010\Projects\ProyectoOpenCL\ProyectoOpenCL\ProyectoOpenCL.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.15

@@ -1,0 +1,29 @@
+﻿Compilación iniciada a las 18/01/2014 17:34:10.
+     1>Proyecto "C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\OpenMPprojectPP\OpenMPprojectPP.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : vea la declaración de 'scanf'
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(225): warning C4018: '<=' : no coinciden signed/unsigned
+     1>c:\clase\3º i.software\pp\trabajo openmp\versiones codigo\openmpprojectpp0.1\openmpprojectpp\openmpprojectpp\source.cpp(174): warning C4101: 'fichero_salida' : variable local sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\Debug\OpenMPprojectPP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\Debug\OpenMPprojectPP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\Debug\OpenMPprojectPP.lib" /MACHINE:X86 Debug\Source.obj
+         OpenMPprojectPP.vcxproj -> C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\Debug\OpenMPprojectPP.exe
+     1>Compilación del proyecto terminada "C:\Clase\3º I.Software\PP\Trabajo OpenMP\versiones codigo\OpenMPprojectPP0.1\OpenMPprojectPP\OpenMPprojectPP\OpenMPprojectPP.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.49
